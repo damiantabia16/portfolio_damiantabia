@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#mobile-overlay, #close-bar {
+    width: calc(100% - 56px);
+}
+
+.mbl-item, .dsk-item {
+    font-size: 17px;
+}
+
+.mbl-item a {
+    line-height: 2.5em;
+}
+
+.dsk-item a:hover {
+    color: #ffdc00;
+    transition: 0.5s;
+}
+
+.dsk-item a {
+    padding: 0 1.3vw;
+}
+
+#first-project-title {
+    letter-spacing: 0;
+    font-weight: 600;
+}
+
+#first-project-ambit {
+    letter-spacing: 0;
+}
+
+#available {
+    letter-spacing: 0;
+}
+
+#wp-li-gh {
+    line-height: 30px;
+}
