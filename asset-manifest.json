@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio_damiantabia/static/css/main.cb983685.css",
+    "main.js": "/portfolio_damiantabia/static/js/main.55490709.js",
+    "static/media/cinewatt-portfolio.mp4": "/portfolio_damiantabia/static/media/cinewatt-portfolio.15ad2e5baf857efc3908.mp4",
+    "static/media/cinewatt2.jpg": "/portfolio_damiantabia/static/media/cinewatt2.2c67ab1869664c7231b9.jpg",
+    "index.html": "/portfolio_damiantabia/index.html",
+    "main.cb983685.css.map": "/portfolio_damiantabia/static/css/main.cb983685.css.map",
+    "main.55490709.js.map": "/portfolio_damiantabia/static/js/main.55490709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb983685.css",
+    "static/js/main.55490709.js"
+  ]
+}
